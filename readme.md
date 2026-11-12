@@ -9,6 +9,6 @@ Los primeros comandos que veremos son:
 - git commit: Crea un nuevo commit con los cambios que se han agregado al área de preparación.
 
 Hemos visto:
-- Reescribir la historia
-- Trabajar co ramas
-- Trabajar con los remotos
+- Reescribir la historia: reset, checkout, rebase -i
+- Trabajar con ramas: branch
+- Trabajar con los remotos: remote, push, pull
