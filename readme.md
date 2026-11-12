@@ -15,5 +15,7 @@ Hemos visto:
   - git commit --amend: Permite modificar el último commit, ya sea para cambiar el mensaje de commit o para agregar cambios adicionales.
   - git rebase: Permite reescribir la historia de commits, moviendo o combinando commits existentes en una nueva base.
   - git reset: Permite deshacer cambios en el área de preparación o en el historial de commits, eliminando commits o moviendo la rama a un estado anterior.
-- Trabajar con ramas
-- Trabajar con los remotos
+  - git checkout: Permite cambiar entre ramas o restaurar archivos a un estado anterior.
+
+- Trabajar con ramas: branch
+- Trabajar con los remotos: remote, push, pull
