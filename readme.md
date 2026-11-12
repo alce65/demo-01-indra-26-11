@@ -18,4 +18,7 @@ Hemos visto:
   - git checkout: Permite cambiar entre ramas o restaurar archivos a un estado anterior.
 
 - Trabajar con ramas: branch
-- Trabajar con los remotos: remote, push, pull
+- Trabajar con los remotos:
+    - remote,
+    - push, pull
+    - pull request (PR) / merge request (MR)
