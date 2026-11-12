@@ -12,8 +12,15 @@ Los primeros comandos que veremos son:
 
 Hemos visto:
 
+- Reescribir la historia: 
+  - git commit --amend: Permite modificar el último commit, ya sea para cambiar el mensaje de commit o para agregar cambios adicionales.
+  - git rebase: Permite reescribir la historia de commits, moviendo o combinando commits existentes en una nueva base.
+  - git reset: Permite deshacer cambios en el área de preparación o en el historial de commits, eliminando commits o moviendo la rama a un estado anterior.
+  - git checkout: Permite cambiar entre ramas o restaurar archivos a un estado anterior.
+
 - Trabajar con ramas: branch
 - Trabajar con los remotos: 
   - remote: Permite agregar, eliminar o listar repositorios remotos asociados al repositorio local.
   - push: Permite enviar los commits locales a un repositorio remoto, actualizando la rama correspondiente en el remoto.
   - pull: Permite traer los cambios de un repositorio remoto y fusionarlos con la rama local, actualizando el historial de commits y los archivos del proyecto.
+  - pull request (PR) / merge request (MR)
