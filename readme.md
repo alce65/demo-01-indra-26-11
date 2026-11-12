@@ -7,3 +7,13 @@ Los primeros comandos que veremos son:
 - git init: Inicializa un nuevo repositorio de Git en el directorio actual.
 - git add: Agrega archivos al área de preparación (staging area) para que estén listos para ser confirmados (committed).
 - git commit: Crea un nuevo commit con los cambios que se han agregado al área de preparación.
+- git status: Muestra el estado actual del repositorio, incluyendo los archivos modificados, los archivos en el área de preparación y los archivos no rastreados.
+- git log: Muestra el historial de commits del repositorio, incluyendo los mensajes de commit, los autores y las fechas.
+
+Hemos visto:
+
+- Trabajar con ramas: branch
+- Trabajar con los remotos: 
+  - remote: Permite agregar, eliminar o listar repositorios remotos asociados al repositorio local.
+  - push: Permite enviar los commits locales a un repositorio remoto, actualizando la rama correspondiente en el remoto.
+  - pull: Permite traer los cambios de un repositorio remoto y fusionarlos con la rama local, actualizando el historial de commits y los archivos del proyecto.
