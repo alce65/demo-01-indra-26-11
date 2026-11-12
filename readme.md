@@ -7,3 +7,8 @@ Los primeros comandos que veremos son:
 - git init: Inicializa un nuevo repositorio de Git en el directorio actual.
 - git add: Agrega archivos al área de preparación (staging area) para que estén listos para ser confirmados (committed).
 - git commit: Crea un nuevo commit con los cambios que se han agregado al área de preparación.
+
+Hemos visto:
+- Reescribir la historia
+- Trabajar co ramas
+- Trabajar con los remotos
