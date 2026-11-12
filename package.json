@@ -1,0 +1,26 @@
+{
+  "name": "demo-01",
+  "version": "1.0.0",
+  "description": "Ejemplo de repositorio en un curso de git. Este repositorio contiene un ejemplo de cómo se puede estructurar un proyecto y cómo se pueden utilizar las funcionalidades de Git para el control de versiones.",
+  "main": "index.js",
+  "scripts": {
+    "test:bad": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Test success\" && exit 0",
+    "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alce65/demo-01-indra-26-11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/alce65/demo-01-indra-26-11/issues"
+  },
+  "homepage": "https://github.com/alce65/demo-01-indra-26-11#readme",
+  "devDependencies": {
+    "husky": "^9.1.7"
+  }
+}
